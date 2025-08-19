@@ -18,14 +18,14 @@ public:
         int i=0;
         int c=0;
         while(t[k]){
-           
-            
             if(t[i]>0){
                     c++;
                      t[i]--;
-            
             }
-            i=(i+1)%t.size();
+            i++;
+            if(i==t.size())
+            i=0;
+           
 
         }
         return c;
