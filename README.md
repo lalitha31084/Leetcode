@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/lalitha31084/Leetcode/tree/master/0053-maximum-subarray) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/lalitha31084/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Binary Search
 |  |
@@ -27,4 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/lalitha31084/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/lalitha31084/Leetcode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/lalitha31084/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
