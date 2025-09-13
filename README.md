@@ -18,4 +18,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2887-sort-vowels-in-a-string](https://github.com/lalitha31084/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/lalitha31084/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+## Hash Table
+|  |
+| ------- |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/lalitha31084/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+## Counting
+|  |
+| ------- |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/lalitha31084/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 <!---LeetCode Topics End-->
