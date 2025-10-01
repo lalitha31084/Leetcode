@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/lalitha31084/Leetcode/tree/master/0062-unique-paths) |
 | [0171-excel-sheet-column-number](https://github.com/lalitha31084/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [1018-largest-perimeter-triangle](https://github.com/lalitha31084/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1642-water-bottles](https://github.com/lalitha31084/Leetcode/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/lalitha31084/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/lalitha31084/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## Combinatorics
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/lalitha31084/Leetcode/tree/master/0861-flipping-an-image) |
+| [1642-water-bottles](https://github.com/lalitha31084/Leetcode/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/lalitha31084/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Greedy
 |  |
