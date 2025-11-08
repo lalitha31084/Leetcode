@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/lalitha31084/Leetcode/tree/master/0062-unique-paths) |
 | [0171-excel-sheet-column-number](https://github.com/lalitha31084/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [1018-largest-perimeter-triangle](https://github.com/lalitha31084/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1448-maximum-69-number](https://github.com/lalitha31084/Leetcode/tree/master/1448-maximum-69-number) |
 | [1642-water-bottles](https://github.com/lalitha31084/Leetcode/tree/master/1642-water-bottles) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/lalitha31084/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/lalitha31084/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/lalitha31084/Leetcode/tree/master/0455-assign-cookies) |
 | [1018-largest-perimeter-triangle](https://github.com/lalitha31084/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1448-maximum-69-number](https://github.com/lalitha31084/Leetcode/tree/master/1448-maximum-69-number) |
 ## Number Theory
 |  |
 | ------- |
