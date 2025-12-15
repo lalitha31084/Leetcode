@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/lalitha31084/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/lalitha31084/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/lalitha31084/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/lalitha31084/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/lalitha31084/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/lalitha31084/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/lalitha31084/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/lalitha31084/Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/lalitha31084/Leetcode/tree/master/0062-unique-paths) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/lalitha31084/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/lalitha31084/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Sliding Window
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/lalitha31084/Leetcode/tree/master/1448-maximum-69-number) |
 | [1642-water-bottles](https://github.com/lalitha31084/Leetcode/tree/master/1642-water-bottles) |
 | [1925-count-square-sum-triples](https://github.com/lalitha31084/Leetcode/tree/master/1925-count-square-sum-triples) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/lalitha31084/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/lalitha31084/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/lalitha31084/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/lalitha31084/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
