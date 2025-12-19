@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/lalitha31084/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/lalitha31084/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/lalitha31084/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2090-k-radius-subarray-averages](https://github.com/lalitha31084/Leetcode/tree/master/2090-k-radius-subarray-averages) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/lalitha31084/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/lalitha31084/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/lalitha31084/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/lalitha31084/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/lalitha31084/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/lalitha31084/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2090-k-radius-subarray-averages](https://github.com/lalitha31084/Leetcode/tree/master/2090-k-radius-subarray-averages) |
 ## Prefix Sum
 |  |
 | ------- |
