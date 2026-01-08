@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/lalitha31084/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2090-k-radius-subarray-averages](https://github.com/lalitha31084/Leetcode/tree/master/2090-k-radius-subarray-averages) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/lalitha31084/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/lalitha31084/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/lalitha31084/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/lalitha31084/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/lalitha31084/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/lalitha31084/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2000-reverse-prefix-of-word](https://github.com/lalitha31084/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/lalitha31084/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/lalitha31084/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/lalitha31084/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/lalitha31084/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2887-sort-vowels-in-a-string](https://github.com/lalitha31084/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/lalitha31084/Leetcode/tree/master/1642-water-bottles) |
 | [1925-count-square-sum-triples](https://github.com/lalitha31084/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/lalitha31084/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/lalitha31084/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/lalitha31084/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/lalitha31084/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/lalitha31084/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/lalitha31084/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/lalitha31084/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1975-maximum-matrix-sum](https://github.com/lalitha31084/Leetcode/tree/master/1975-maximum-matrix-sum) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/lalitha31084/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/lalitha31084/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Simulation
 |  |
