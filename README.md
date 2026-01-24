@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/lalitha31084/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2000-reverse-prefix-of-word](https://github.com/lalitha31084/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/lalitha31084/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2063-vowels-of-all-substrings](https://github.com/lalitha31084/Leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/lalitha31084/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/lalitha31084/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/lalitha31084/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/lalitha31084/Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/lalitha31084/Leetcode/tree/master/0062-unique-paths) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/lalitha31084/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2063-vowels-of-all-substrings](https://github.com/lalitha31084/Leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/lalitha31084/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Sliding Window
 |  |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/lalitha31084/Leetcode/tree/master/1448-maximum-69-number) |
 | [1642-water-bottles](https://github.com/lalitha31084/Leetcode/tree/master/1642-water-bottles) |
 | [1925-count-square-sum-triples](https://github.com/lalitha31084/Leetcode/tree/master/1925-count-square-sum-triples) |
+| [2063-vowels-of-all-substrings](https://github.com/lalitha31084/Leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/lalitha31084/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/lalitha31084/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/lalitha31084/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/lalitha31084/Leetcode/tree/master/0062-unique-paths) |
+| [2063-vowels-of-all-substrings](https://github.com/lalitha31084/Leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/lalitha31084/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/lalitha31084/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Two Pointers
