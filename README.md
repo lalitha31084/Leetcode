@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/lalitha31084/Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/lalitha31084/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1572-matrix-diagonal-sum](https://github.com/lalitha31084/Leetcode/tree/master/1572-matrix-diagonal-sum) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/lalitha31084/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/lalitha31084/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1975-maximum-matrix-sum](https://github.com/lalitha31084/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [1991-find-the-middle-index-in-array](https://github.com/lalitha31084/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/lalitha31084/Leetcode/tree/master/0861-flipping-an-image) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/lalitha31084/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/lalitha31084/Leetcode/tree/master/1572-matrix-diagonal-sum) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/lalitha31084/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1975-maximum-matrix-sum](https://github.com/lalitha31084/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/lalitha31084/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/lalitha31084/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
