@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/lalitha31084/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/lalitha31084/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1046-max-consecutive-ones-iii](https://github.com/lalitha31084/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1208-get-equal-substrings-within-budget](https://github.com/lalitha31084/Leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/lalitha31084/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/lalitha31084/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/lalitha31084/Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/lalitha31084/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/lalitha31084/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/lalitha31084/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
+| [1208-get-equal-substrings-within-budget](https://github.com/lalitha31084/Leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/lalitha31084/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/lalitha31084/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/lalitha31084/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/lalitha31084/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/lalitha31084/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/lalitha31084/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1208-get-equal-substrings-within-budget](https://github.com/lalitha31084/Leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/lalitha31084/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/lalitha31084/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2090-k-radius-subarray-averages](https://github.com/lalitha31084/Leetcode/tree/master/2090-k-radius-subarray-averages) |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/lalitha31084/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/lalitha31084/Leetcode/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/lalitha31084/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1208-get-equal-substrings-within-budget](https://github.com/lalitha31084/Leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/lalitha31084/Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/lalitha31084/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1991-find-the-middle-index-in-array](https://github.com/lalitha31084/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
