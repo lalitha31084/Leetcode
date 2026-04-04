@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lalitha31084/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0171-excel-sheet-column-number](https://github.com/lalitha31084/Leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/lalitha31084/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/lalitha31084/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/lalitha31084/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1208-get-equal-substrings-within-budget](https://github.com/lalitha31084/Leetcode/tree/master/1208-get-equal-substrings-within-budget) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/lalitha31084/Leetcode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/lalitha31084/Leetcode/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/lalitha31084/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/lalitha31084/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/lalitha31084/Leetcode/tree/master/0455-assign-cookies) |
 | [0861-flipping-an-image](https://github.com/lalitha31084/Leetcode/tree/master/0861-flipping-an-image) |
 | [0941-sort-array-by-parity](https://github.com/lalitha31084/Leetcode/tree/master/0941-sort-array-by-parity) |
