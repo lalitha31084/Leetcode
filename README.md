@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/lalitha31084/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/lalitha31084/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/lalitha31084/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2553-separate-the-digits-in-an-array](https://github.com/lalitha31084/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/lalitha31084/Leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2574-left-and-right-sum-differences](https://github.com/lalitha31084/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/lalitha31084/Leetcode/tree/master/2780-minimum-index-of-a-valid-split) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/lalitha31084/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/lalitha31084/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/lalitha31084/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/lalitha31084/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3271-hash-divided-string](https://github.com/lalitha31084/Leetcode/tree/master/3271-hash-divided-string) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/lalitha31084/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/lalitha31084/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
