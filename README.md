@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3616-make-array-elements-equal-to-zero](https://github.com/lalitha31084/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/lalitha31084/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/lalitha31084/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3925-concatenate-array-with-reverse](https://github.com/lalitha31084/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Binary Search
 |  |
 | ------- |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3271-hash-divided-string](https://github.com/lalitha31084/Leetcode/tree/master/3271-hash-divided-string) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/lalitha31084/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/lalitha31084/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3925-concatenate-array-with-reverse](https://github.com/lalitha31084/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Greedy
 |  |
 | ------- |
