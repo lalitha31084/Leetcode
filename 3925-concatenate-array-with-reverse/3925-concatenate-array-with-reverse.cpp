@@ -2,14 +2,13 @@ class Solution {
 public:
     vector<int> concatWithReverse(vector<int>& nums) {
         int n=nums.size();
-        vector<int>res;
+        vector<int>res(2*n);
         for(int i=0;i<n;i++){
-            res.push_back(nums[i]);
+            res[i]=nums[i];
+            res[2*n-1-i]=nums[i];
 
         }
-        for(int i=n-1;i>=0;i--){
-            res.push_back(nums[i]);
-        }
+        
         return res;
         
     }
