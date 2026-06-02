@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/lalitha31084/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/lalitha31084/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/lalitha31084/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/lalitha31084/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/lalitha31084/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Binary Search
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/lalitha31084/Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/lalitha31084/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/lalitha31084/Leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/lalitha31084/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sorting
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2780-minimum-index-of-a-valid-split](https://github.com/lalitha31084/Leetcode/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2887-sort-vowels-in-a-string](https://github.com/lalitha31084/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/lalitha31084/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/lalitha31084/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## String
 |  |
 | ------- |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/lalitha31084/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/lalitha31084/Leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/lalitha31084/Leetcode/tree/master/2903-find-indices-with-index-and-value-difference-i) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/lalitha31084/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -299,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/lalitha31084/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/lalitha31084/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/lalitha31084/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/lalitha31084/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Number Theory
 |  |
 | ------- |
