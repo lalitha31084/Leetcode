@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/lalitha31084/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2063-vowels-of-all-substrings](https://github.com/lalitha31084/Leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/lalitha31084/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/lalitha31084/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/lalitha31084/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/lalitha31084/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/lalitha31084/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/lalitha31084/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/lalitha31084/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Combinatorics
 |  |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/lalitha31084/Leetcode/tree/master/1925-count-square-sum-triples) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/lalitha31084/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Stack
 |  |
 | ------- |
