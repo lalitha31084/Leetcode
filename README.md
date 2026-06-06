@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/lalitha31084/Leetcode/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/lalitha31084/Leetcode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/lalitha31084/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/lalitha31084/Leetcode/tree/master/0041-first-missing-positive) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/lalitha31084/Leetcode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/lalitha31084/Leetcode/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/lalitha31084/Leetcode/tree/master/0455-assign-cookies) |
 | [0941-sort-array-by-parity](https://github.com/lalitha31084/Leetcode/tree/master/0941-sort-array-by-parity) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/lalitha31084/Leetcode/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/lalitha31084/Leetcode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/lalitha31084/Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/lalitha31084/Leetcode/tree/master/0125-valid-palindrome) |
