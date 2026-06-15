@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/lalitha31084/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1572-matrix-diagonal-sum](https://github.com/lalitha31084/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/lalitha31084/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1652-defuse-the-bomb](https://github.com/lalitha31084/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/lalitha31084/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/lalitha31084/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/lalitha31084/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1208-get-equal-substrings-within-budget](https://github.com/lalitha31084/Leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/lalitha31084/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/lalitha31084/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1652-defuse-the-bomb](https://github.com/lalitha31084/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [2090-k-radius-subarray-averages](https://github.com/lalitha31084/Leetcode/tree/master/2090-k-radius-subarray-averages) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/lalitha31084/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Prefix Sum
