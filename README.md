@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/lalitha31084/Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/lalitha31084/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2000-reverse-prefix-of-word](https://github.com/lalitha31084/Leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/lalitha31084/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/lalitha31084/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/lalitha31084/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/lalitha31084/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/lalitha31084/Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/lalitha31084/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/lalitha31084/Leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Geometry
 |  |
