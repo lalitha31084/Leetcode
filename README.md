@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/lalitha31084/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/lalitha31084/Leetcode/tree/master/0724-find-pivot-index) |
 | [0861-flipping-an-image](https://github.com/lalitha31084/Leetcode/tree/master/0861-flipping-an-image) |
+| [0912-sort-an-array](https://github.com/lalitha31084/Leetcode/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/lalitha31084/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/lalitha31084/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0941-sort-array-by-parity](https://github.com/lalitha31084/Leetcode/tree/master/0941-sort-array-by-parity) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/lalitha31084/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/lalitha31084/Leetcode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/lalitha31084/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0912-sort-an-array](https://github.com/lalitha31084/Leetcode/tree/master/0912-sort-an-array) |
 | [0941-sort-array-by-parity](https://github.com/lalitha31084/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1018-largest-perimeter-triangle](https://github.com/lalitha31084/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1331-rank-transform-of-an-array](https://github.com/lalitha31084/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/lalitha31084/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/lalitha31084/Leetcode/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/lalitha31084/Leetcode/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/lalitha31084/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/lalitha31084/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
@@ -440,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/lalitha31084/Leetcode/tree/master/0912-sort-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/lalitha31084/Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 ## Queue
 |  |
@@ -477,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/lalitha31084/Leetcode/tree/master/0912-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/lalitha31084/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Union-Find
 |  |
@@ -486,8 +491,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/lalitha31084/Leetcode/tree/master/0164-maximum-gap) |
+| [0912-sort-an-array](https://github.com/lalitha31084/Leetcode/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/lalitha31084/Leetcode/tree/master/0164-maximum-gap) |
+| [0912-sort-an-array](https://github.com/lalitha31084/Leetcode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/lalitha31084/Leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
