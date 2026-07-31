@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/lalitha31084/Leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/lalitha31084/Leetcode/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/lalitha31084/Leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0344-reverse-string](https://github.com/lalitha31084/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/lalitha31084/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/lalitha31084/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/lalitha31084/Leetcode/tree/master/0389-find-the-difference) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/lalitha31084/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lalitha31084/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/lalitha31084/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0344-reverse-string](https://github.com/lalitha31084/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/lalitha31084/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lalitha31084/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/lalitha31084/Leetcode/tree/master/0455-assign-cookies) |
