@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/lalitha31084/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/lalitha31084/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/lalitha31084/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1929-concatenation-of-array](https://github.com/lalitha31084/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/lalitha31084/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1975-maximum-matrix-sum](https://github.com/lalitha31084/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/lalitha31084/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/lalitha31084/Leetcode/tree/master/0861-flipping-an-image) |
 | [1642-water-bottles](https://github.com/lalitha31084/Leetcode/tree/master/1642-water-bottles) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/lalitha31084/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1929-concatenation-of-array](https://github.com/lalitha31084/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/lalitha31084/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/lalitha31084/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/lalitha31084/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
