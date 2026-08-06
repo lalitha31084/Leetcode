@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/lalitha31084/Leetcode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/lalitha31084/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/lalitha31084/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0706-design-hashmap](https://github.com/lalitha31084/Leetcode/tree/master/0706-design-hashmap) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/lalitha31084/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/lalitha31084/Leetcode/tree/master/0724-find-pivot-index) |
 | [0861-flipping-an-image](https://github.com/lalitha31084/Leetcode/tree/master/0861-flipping-an-image) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/lalitha31084/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/lalitha31084/Leetcode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/lalitha31084/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0706-design-hashmap](https://github.com/lalitha31084/Leetcode/tree/master/0706-design-hashmap) |
 | [0930-binary-subarrays-with-sum](https://github.com/lalitha31084/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/lalitha31084/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/lalitha31084/Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0706-design-hashmap](https://github.com/lalitha31084/Leetcode/tree/master/0706-design-hashmap) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/lalitha31084/Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/lalitha31084/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/lalitha31084/Leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
@@ -576,8 +579,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/lalitha31084/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0706-design-hashmap](https://github.com/lalitha31084/Leetcode/tree/master/0706-design-hashmap) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/lalitha31084/Leetcode/tree/master/0169-majority-element) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/lalitha31084/Leetcode/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
