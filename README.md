@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/lalitha31084/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/lalitha31084/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/lalitha31084/Leetcode/tree/master/0137-single-number-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/lalitha31084/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/lalitha31084/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/lalitha31084/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/lalitha31084/Leetcode/tree/master/0164-maximum-gap) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/lalitha31084/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/lalitha31084/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/lalitha31084/Leetcode/tree/master/0066-plus-one) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/lalitha31084/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/lalitha31084/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/lalitha31084/Leetcode/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/lalitha31084/Leetcode/tree/master/0367-valid-perfect-square) |
@@ -504,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/lalitha31084/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/lalitha31084/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/lalitha31084/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/lalitha31084/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0682-baseball-game](https://github.com/lalitha31084/Leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/lalitha31084/Leetcode/tree/master/0739-daily-temperatures) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/lalitha31084/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
