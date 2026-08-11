@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2780-minimum-index-of-a-valid-split](https://github.com/lalitha31084/Leetcode/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/lalitha31084/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/lalitha31084/Leetcode/tree/master/2903-find-indices-with-index-and-value-difference-i) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/lalitha31084/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/lalitha31084/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/lalitha31084/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/lalitha31084/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2563-count-the-number-of-fair-pairs](https://github.com/lalitha31084/Leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/lalitha31084/Leetcode/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2887-sort-vowels-in-a-string](https://github.com/lalitha31084/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/lalitha31084/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/lalitha31084/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3536-maximum-product-of-two-digits](https://github.com/lalitha31084/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/lalitha31084/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/lalitha31084/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/lalitha31084/Leetcode/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/lalitha31084/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/lalitha31084/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/lalitha31084/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/lalitha31084/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3731-find-missing-elements](https://github.com/lalitha31084/Leetcode/tree/master/3731-find-missing-elements) |
