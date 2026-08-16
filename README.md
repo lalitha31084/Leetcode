@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lalitha31084/Leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/lalitha31084/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/lalitha31084/Leetcode/tree/master/0455-assign-cookies) |
+| [0622-design-circular-queue](https://github.com/lalitha31084/Leetcode/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/lalitha31084/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/lalitha31084/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/lalitha31084/Leetcode/tree/master/0682-baseball-game) |
@@ -543,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/lalitha31084/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/lalitha31084/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/lalitha31084/Leetcode/tree/master/0143-reorder-list) |
+| [0622-design-circular-queue](https://github.com/lalitha31084/Leetcode/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/lalitha31084/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/lalitha31084/Leetcode/tree/master/0706-design-hashmap) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/lalitha31084/Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -565,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/lalitha31084/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/lalitha31084/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0622-design-circular-queue](https://github.com/lalitha31084/Leetcode/tree/master/0622-design-circular-queue) |
 | [0918-maximum-sum-circular-subarray](https://github.com/lalitha31084/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/lalitha31084/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Tree
@@ -632,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/lalitha31084/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0304-range-sum-query-2d-immutable](https://github.com/lalitha31084/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0622-design-circular-queue](https://github.com/lalitha31084/Leetcode/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/lalitha31084/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/lalitha31084/Leetcode/tree/master/0706-design-hashmap) |
 ## Boyer–Moore Majority Vote Algorithm
