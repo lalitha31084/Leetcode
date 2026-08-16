@@ -540,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/lalitha31084/Leetcode/tree/master/0002-add-two-numbers) |
+| [0092-reverse-linked-list-ii](https://github.com/lalitha31084/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/lalitha31084/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/lalitha31084/Leetcode/tree/master/0143-reorder-list) |
 | [0705-design-hashset](https://github.com/lalitha31084/Leetcode/tree/master/0705-design-hashset) |
