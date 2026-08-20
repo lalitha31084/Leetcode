@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/lalitha31084/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/lalitha31084/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/lalitha31084/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3663-find-the-least-frequent-digit](https://github.com/lalitha31084/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3731-find-missing-elements](https://github.com/lalitha31084/Leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/lalitha31084/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/lalitha31084/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/lalitha31084/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/lalitha31084/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/lalitha31084/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3663-find-the-least-frequent-digit](https://github.com/lalitha31084/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3731-find-missing-elements](https://github.com/lalitha31084/Leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/lalitha31084/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/lalitha31084/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/lalitha31084/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/lalitha31084/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/lalitha31084/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3663-find-the-least-frequent-digit](https://github.com/lalitha31084/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/lalitha31084/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/lalitha31084/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Divide and Conquer
@@ -402,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/lalitha31084/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/lalitha31084/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/lalitha31084/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3663-find-the-least-frequent-digit](https://github.com/lalitha31084/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/lalitha31084/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/lalitha31084/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/lalitha31084/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
