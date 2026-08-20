@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2799-count-complete-subarrays-in-an-array](https://github.com/lalitha31084/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/lalitha31084/Leetcode/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/lalitha31084/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/lalitha31084/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/lalitha31084/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/lalitha31084/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/lalitha31084/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2181-merge-nodes-in-between-zeros](https://github.com/lalitha31084/Leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/lalitha31084/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/lalitha31084/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/lalitha31084/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3271-hash-divided-string](https://github.com/lalitha31084/Leetcode/tree/master/3271-hash-divided-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/lalitha31084/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/lalitha31084/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
