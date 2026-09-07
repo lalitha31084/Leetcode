@@ -2,8 +2,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/lalitha31084/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/lalitha31084/Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/lalitha31084/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
@@ -140,8 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3904-smallest-stable-index-ii](https://github.com/lalitha31084/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [3925-concatenate-array-with-reverse](https://github.com/lalitha31084/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/lalitha31084/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/lalitha31084/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/lalitha31084/Leetcode/tree/master/0035-search-insert-position) |
@@ -167,8 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2563-count-the-number-of-fair-pairs](https://github.com/lalitha31084/Leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/lalitha31084/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0015-3sum](https://github.com/lalitha31084/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/lalitha31084/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/lalitha31084/Leetcode/tree/master/0018-4sum) |
@@ -215,8 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/lalitha31084/Leetcode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/lalitha31084/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lalitha31084/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/lalitha31084/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0049-group-anagrams](https://github.com/lalitha31084/Leetcode/tree/master/0049-group-anagrams) |
@@ -264,8 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/lalitha31084/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/lalitha31084/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/lalitha31084/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lalitha31084/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/lalitha31084/Leetcode/tree/master/0036-valid-sudoku) |
@@ -312,8 +312,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/lalitha31084/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/lalitha31084/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/lalitha31084/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/lalitha31084/Leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/lalitha31084/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -330,8 +330,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3737-count-subarrays-with-majority-element-i](https://github.com/lalitha31084/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/lalitha31084/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0053-maximum-subarray](https://github.com/lalitha31084/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/lalitha31084/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/lalitha31084/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -339,8 +339,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/lalitha31084/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/lalitha31084/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/lalitha31084/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/lalitha31084/Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/lalitha31084/Leetcode/tree/master/0062-unique-paths) |
@@ -349,14 +349,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/lalitha31084/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/lalitha31084/Leetcode/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/lalitha31084/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [1137-n-th-tribonacci-number](https://github.com/lalitha31084/Leetcode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/lalitha31084/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/lalitha31084/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2063-vowels-of-all-substrings](https://github.com/lalitha31084/Leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/lalitha31084/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/lalitha31084/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lalitha31084/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/lalitha31084/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/lalitha31084/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -372,8 +373,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/lalitha31084/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/lalitha31084/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/lalitha31084/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0304-range-sum-query-2d-immutable](https://github.com/lalitha31084/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0724-find-pivot-index](https://github.com/lalitha31084/Leetcode/tree/master/0724-find-pivot-index) |
@@ -391,8 +392,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/lalitha31084/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/lalitha31084/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/lalitha31084/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/lalitha31084/Leetcode/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/lalitha31084/Leetcode/tree/master/0050-powx-n) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/lalitha31084/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/lalitha31084/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1018-largest-perimeter-triangle](https://github.com/lalitha31084/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1137-n-th-tribonacci-number](https://github.com/lalitha31084/Leetcode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/lalitha31084/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/lalitha31084/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1448-maximum-69-number](https://github.com/lalitha31084/Leetcode/tree/master/1448-maximum-69-number) |
@@ -438,15 +440,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/lalitha31084/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/lalitha31084/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Combinatorics
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0062-unique-paths](https://github.com/lalitha31084/Leetcode/tree/master/0062-unique-paths) |
 | [2063-vowels-of-all-substrings](https://github.com/lalitha31084/Leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/lalitha31084/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/lalitha31084/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/lalitha31084/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/lalitha31084/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/lalitha31084/Leetcode/tree/master/0016-3sum-closest) |
@@ -492,8 +494,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3649-number-of-perfect-pairs](https://github.com/lalitha31084/Leetcode/tree/master/3649-number-of-perfect-pairs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/lalitha31084/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0078-subsets](https://github.com/lalitha31084/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/lalitha31084/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/lalitha31084/Leetcode/tree/master/0137-single-number-ii) |
@@ -504,8 +506,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/lalitha31084/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/lalitha31084/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0036-valid-sudoku](https://github.com/lalitha31084/Leetcode/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/lalitha31084/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0304-range-sum-query-2d-immutable](https://github.com/lalitha31084/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
@@ -519,8 +521,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/lalitha31084/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/lalitha31084/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0412-fizz-buzz](https://github.com/lalitha31084/Leetcode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/lalitha31084/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/lalitha31084/Leetcode/tree/master/0682-baseball-game) |
@@ -543,8 +545,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/lalitha31084/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/lalitha31084/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/lalitha31084/Leetcode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/lalitha31084/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/lalitha31084/Leetcode/tree/master/0455-assign-cookies) |
@@ -563,27 +565,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/lalitha31084/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/lalitha31084/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Number Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/lalitha31084/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/lalitha31084/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/lalitha31084/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/lalitha31084/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/lalitha31084/Leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/lalitha31084/Leetcode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/lalitha31084/Leetcode/tree/master/0143-reorder-list) |
 | [0509-fibonacci-number](https://github.com/lalitha31084/Leetcode/tree/master/0509-fibonacci-number) |
 ## Enumeration
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1925-count-square-sum-triples](https://github.com/lalitha31084/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/lalitha31084/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/lalitha31084/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/lalitha31084/Leetcode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/lalitha31084/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -596,8 +598,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/lalitha31084/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2000-reverse-prefix-of-word](https://github.com/lalitha31084/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/lalitha31084/Leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/lalitha31084/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0092-reverse-linked-list-ii](https://github.com/lalitha31084/Leetcode/tree/master/0092-reverse-linked-list-ii) |
@@ -611,12 +613,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/lalitha31084/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/lalitha31084/Leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Geometry
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/lalitha31084/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/lalitha31084/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lalitha31084/Leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0912-sort-an-array](https://github.com/lalitha31084/Leetcode/tree/master/0912-sort-an-array) |
@@ -624,85 +626,85 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lalitha31084/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/lalitha31084/Leetcode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/lalitha31084/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/lalitha31084/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/lalitha31084/Leetcode/tree/master/0622-design-circular-queue) |
 | [0918-maximum-sum-circular-subarray](https://github.com/lalitha31084/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/lalitha31084/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/lalitha31084/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/lalitha31084/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/lalitha31084/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/lalitha31084/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/lalitha31084/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/lalitha31084/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/lalitha31084/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/lalitha31084/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/lalitha31084/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/lalitha31084/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/lalitha31084/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/lalitha31084/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/lalitha31084/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/lalitha31084/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/lalitha31084/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Monotonic Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/lalitha31084/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0796-rotate-string](https://github.com/lalitha31084/Leetcode/tree/master/0796-rotate-string) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/lalitha31084/Leetcode/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
 ## Segment Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/lalitha31084/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0912-sort-an-array](https://github.com/lalitha31084/Leetcode/tree/master/0912-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/lalitha31084/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Union-Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/lalitha31084/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 ## Bucket Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0164-maximum-gap](https://github.com/lalitha31084/Leetcode/tree/master/0164-maximum-gap) |
 | [0347-top-k-frequent-elements](https://github.com/lalitha31084/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/lalitha31084/Leetcode/tree/master/0912-sort-an-array) |
 ## Radix Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0164-maximum-gap](https://github.com/lalitha31084/Leetcode/tree/master/0164-maximum-gap) |
 | [0912-sort-an-array](https://github.com/lalitha31084/Leetcode/tree/master/0912-sort-an-array) |
 ## Counting Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0912-sort-an-array](https://github.com/lalitha31084/Leetcode/tree/master/0912-sort-an-array) |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/lalitha31084/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 ## Quickselect
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/lalitha31084/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0155-min-stack](https://github.com/lalitha31084/Leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/lalitha31084/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0304-range-sum-query-2d-immutable](https://github.com/lalitha31084/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
@@ -710,67 +712,68 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/lalitha31084/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/lalitha31084/Leetcode/tree/master/0706-design-hashmap) |
 ## Boyer–Moore Majority Vote Algorithm
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/lalitha31084/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/lalitha31084/Leetcode/tree/master/0229-majority-element-ii) |
 ## Hash Function
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0705-design-hashset](https://github.com/lalitha31084/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/lalitha31084/Leetcode/tree/master/0706-design-hashmap) |
 ## Monotonic Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/lalitha31084/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/lalitha31084/Leetcode/tree/master/0739-daily-temperatures) |
 ## Timsort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0881-boats-to-save-people](https://github.com/lalitha31084/Leetcode/tree/master/0881-boats-to-save-people) |
 ## Interactive
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/lalitha31084/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 ## Floyd's Cycle Finding Algorithm
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/lalitha31084/Leetcode/tree/master/0141-linked-list-cycle) |
 ## Brainteaser
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0292-nim-game](https://github.com/lalitha31084/Leetcode/tree/master/0292-nim-game) |
 ## Minimax
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0292-nim-game](https://github.com/lalitha31084/Leetcode/tree/master/0292-nim-game) |
 ## Game Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0292-nim-game](https://github.com/lalitha31084/Leetcode/tree/master/0292-nim-game) |
 ## Nim Game
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0292-nim-game](https://github.com/lalitha31084/Leetcode/tree/master/0292-nim-game) |
 ## Impartial Game
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0292-nim-game](https://github.com/lalitha31084/Leetcode/tree/master/0292-nim-game) |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/lalitha31084/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/lalitha31084/Leetcode/tree/master/0226-invert-binary-tree) |
 ## DP on Trees
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/lalitha31084/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Memoization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0509-fibonacci-number](https://github.com/lalitha31084/Leetcode/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/lalitha31084/Leetcode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0078-subsets](https://github.com/lalitha31084/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
