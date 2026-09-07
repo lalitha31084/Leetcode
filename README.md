@@ -409,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/lalitha31084/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/lalitha31084/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1448-maximum-69-number](https://github.com/lalitha31084/Leetcode/tree/master/1448-maximum-69-number) |
+| [1486-xor-operation-in-an-array](https://github.com/lalitha31084/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1642-water-bottles](https://github.com/lalitha31084/Leetcode/tree/master/1642-water-bottles) |
 | [1925-count-square-sum-triples](https://github.com/lalitha31084/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/lalitha31084/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/lalitha31084/Leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/lalitha31084/Leetcode/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/lalitha31084/Leetcode/tree/master/0861-flipping-an-image) |
+| [1486-xor-operation-in-an-array](https://github.com/lalitha31084/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/lalitha31084/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Matrix
 |  |
