@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/lalitha31084/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/lalitha31084/Leetcode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/lalitha31084/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/lalitha31084/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/lalitha31084/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/lalitha31084/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2553-separate-the-digits-in-an-array](https://github.com/lalitha31084/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/lalitha31084/Leetcode/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/lalitha31084/Leetcode/tree/master/0861-flipping-an-image) |
 | [1486-xor-operation-in-an-array](https://github.com/lalitha31084/Leetcode/tree/master/1486-xor-operation-in-an-array) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/lalitha31084/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/lalitha31084/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Matrix
 |  |
