@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/lalitha31084/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/lalitha31084/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/lalitha31084/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/lalitha31084/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2090-k-radius-subarray-averages](https://github.com/lalitha31084/Leetcode/tree/master/2090-k-radius-subarray-averages) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/lalitha31084/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/lalitha31084/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/lalitha31084/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/lalitha31084/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/lalitha31084/Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/lalitha31084/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2210-find-target-indices-after-sorting-array](https://github.com/lalitha31084/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/lalitha31084/Leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/lalitha31084/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/lalitha31084/Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/lalitha31084/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/lalitha31084/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/lalitha31084/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/lalitha31084/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/lalitha31084/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/lalitha31084/Leetcode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
