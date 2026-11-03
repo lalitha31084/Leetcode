@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3663-find-the-least-frequent-digit](https://github.com/lalitha31084/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/lalitha31084/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/lalitha31084/Leetcode/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/lalitha31084/Leetcode/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/lalitha31084/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/lalitha31084/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/lalitha31084/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/lalitha31084/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3663-find-the-least-frequent-digit](https://github.com/lalitha31084/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/lalitha31084/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/lalitha31084/Leetcode/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/lalitha31084/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/lalitha31084/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/lalitha31084/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
